@@ -1,0 +1,1 @@
+(function(){var page=window.location.href;var params="verification_code="+id+"&page="+page;})();
